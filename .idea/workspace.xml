@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d13d1799-a67e-46ec-b348-b36b356d3807" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/familyclient/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familyclient/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familyclient/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familyclient/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familyclient/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familyclient/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familyclient/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familyclient/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familyclient/e2e/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familyclient/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familyclient/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familyclient/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familyclient/src/app/app-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familyclient/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familyclient/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familyclient/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familyclient/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familyclient/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familyclient/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familyclient/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familyclient/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familyclient/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familyclient/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familyclient/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familyclient/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familyclient/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familyclient/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familyclient/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familyclient/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familyclient/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/familyclient/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,9 +10,29 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="GOROOT" path="C:/Go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/familyclient" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
@@ -64,11 +54,6 @@
               <item name="family" type="b2602c69:ProjectViewProjectNode" />
               <item name="family" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="family" type="b2602c69:ProjectViewProjectNode" />
-              <item name="family" type="462c0819:PsiDirectoryNode" />
-              <item name="familyclient" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -81,6 +66,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -120,5 +106,14 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
