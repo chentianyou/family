@@ -4,8 +4,8 @@ import cv2
 
 
 def main():
-    images_path = "../../images"
-    s_images_path = "../../simages"
+    images_path = "../images"
+    s_images_path = "../simages"
     if not os.path.exists(s_images_path):
         os.mkdir(s_images_path)
     images = os.listdir(images_path)

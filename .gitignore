@@ -2,4 +2,6 @@
 images
 simages
 images.tar.gz
-simages.tar.gz
+data/simages.tar.gz
+data
+main_go.exe
